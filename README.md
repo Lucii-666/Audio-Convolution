@@ -332,5 +332,5 @@ For questions, issues, or contributions:
 ---
 
 **Created for Digital Signal and Image Processing (DSIP) Course**  
-**Academic Year: 2024-2025**  
+**Academic Year: 2025-2026**  
 **Python 3.13 | Librosa 0.11.0 | NumPy 2.1.3**
